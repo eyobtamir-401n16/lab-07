@@ -72,9 +72,9 @@ describe('categories and products happy path', () => {
 });
 });
 
-// describe('middleware works', () => {
-//   it("gives 404 error when accessing route that doesn't exist", async () => {
-//       let response = await mockRequest.post('/blah');
-//       expect(response.status).toBe(404);
-//   });
-// });
+describe('middleware works', () => {
+  it("gives 404 error when accessing route that doesn't exist", async () => {
+      let response = await mockRequest.get('/blah');
+      expect(response.status).toBe(404);
+  });
+});
