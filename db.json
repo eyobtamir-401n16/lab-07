@@ -1,0 +1,19 @@
+{
+  "categories": [
+    { 
+      "id": 1,
+      "name": "burger",
+      "display_name": "fast food",
+      "description": "food"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "burger",
+      "name": "cheese burger",
+      "display_name": "burger",
+      "description": "burger"
+    }
+  ]
+}
