@@ -3,7 +3,7 @@
 * Author: Eyob Tamir
 
 ### Links and Resources
-submission PR
+[submission PR] (https://github.com/eyobtamir-401n16/lab-07/pull/5) 
 
 ### back-end server url (when applicable)
 * http//:localhosts:3000  - for home page *
