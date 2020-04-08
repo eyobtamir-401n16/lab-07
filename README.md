@@ -1,11 +1,20 @@
-## LAB - Class xx
+## LAB - Class 07
 
 * Author: Eyob Tamir
 
 ### Links and Resources
-submission PR
+[submission PR] (https://github.com/eyobtamir-401n16/lab-07/pull/5) 
 
 ### back-end server url (when applicable)
+* http//:localhosts:3000  - for home page *
+* http//:localhosts:3000/products  - for products page * 
+* http//:localhosts:3000/categories  - for categoris page *
+
+### Heroku Link
+* https://lab-07-express-swagger.herokuapp.com/ *
+
+### Swagger Link
+* https://lab-07-express-swagger.herokuapp.com/api-docs *
 
 ### Setup
 * .env requirements (where applicable)
@@ -21,4 +30,4 @@ How to use your library (where applicable)
 * jest --verbose --coverage
 
 UML
-![]()
+![lab-07-uml](./asset/image/Lab-07-UML.jpg)
